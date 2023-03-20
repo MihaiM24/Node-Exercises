@@ -1,0 +1,8 @@
+I just wrote this in the terminal, I don't know how to post it otherwhise
+
+
+$ node
+Welcome to Node.js v18.15.0.
+Type ".help" for more information.
+> crypto.randomUUID()
+'af93b879-f227-4d48-887f-ad013e476396'
